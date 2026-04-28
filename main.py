@@ -3,7 +3,7 @@ from telegram import ReplyKeyboardMarkup, Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes
 
 # Railway ရဲ့ Variables ထဲမှာ TELEGRAM_TOKEN ဆိုတဲ့နာမည်နဲ့ Token ထည့်ထားပေးရပါမယ်
-TOKEN = os.getenv("TELEGRAM_TOKEN")
+TOKEN = os.getenv("8639241153:AAGcL6T6bgJ1QdccyVb4fuLxq2qgTIm3wIo")
 
 # Keyboard ခလုတ်များကို ပုံစံချခြင်း
 main_keyboard = [
